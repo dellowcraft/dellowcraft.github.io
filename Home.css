@@ -16,7 +16,7 @@
 
 .u-section-1 .u-text-1 {
   font-family: Alatsi;
-  margin: -380px auto 60px 212px;
+  margin: -380px 530px 60px 212px;
 }
 
 @media (max-width: 1199px) {
@@ -37,7 +37,9 @@
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: -360px;
+    margin-right: 430px;
     margin-left: 72px;
+    font-size: 2.25rem;
   }
 }
 
@@ -62,6 +64,7 @@
 
   .u-section-1 .u-text-1 {
     margin-top: -302px;
+    margin-right: 320px;
     margin-left: 52px;
   }
 }
@@ -86,6 +89,7 @@
 
   .u-section-1 .u-text-1 {
     margin-top: -232px;
+    margin-right: 142px;
   }
 }
 
@@ -109,9 +113,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.25rem;
-    margin-top: -20px;
-    margin-left: auto;
-    margin-bottom: 40px;
+    margin: -20px 0 40px auto;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 534px;
